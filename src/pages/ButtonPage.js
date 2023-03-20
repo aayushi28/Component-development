@@ -18,7 +18,7 @@ function ButtonPage() {
         </Button>
       </div>
       <div>
-        <Button warning className="mb-4">
+        <Button warning>
           <GoBriefcase />
           Add me
         </Button>
